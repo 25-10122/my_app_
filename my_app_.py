@@ -5,7 +5,7 @@ import google.generativeai as genai  # 구글 AI 라이브러리
 st.set_page_config(page_title="AI 톤앤매너 답장 작성기", page_icon="📧", layout="centered")
 
 # 1. 메인 화면 타이틀 및 설명
-st.title("📧 [무료버전] AI 비즈니스 이메일 & 답장 작성기")
+st.title("📧  AI 비즈니스 이메일 & 답장 작성기")
 st.write("핵심 내용만 적어주시면, 상황과 말투에 맞는 완벽한 메일을 작성해 드립니다. (구글 Gemini 탑재)")
 st.markdown("---")
 
