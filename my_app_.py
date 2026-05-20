@@ -1,5 +1,4 @@
-import streamlit as st
-from openai import OpenAI
+
 
 # 1. 웹 페이지 기본 설정 및 타이틀
 st.set_page_config(page_title="AI 톤앤매너 답장 작성기", page_icon="📧", layout="centered")
